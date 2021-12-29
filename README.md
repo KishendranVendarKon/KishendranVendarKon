@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Kishendran
 
-<!--
-**KishendranVendarKon/KishendranVendarKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science Undegraduate who is seriously interested in Software Engineering!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently in year 2 and am looking to enhance my front-end development knowledge to be a more accomplished developer.
+- 🥅 2022 Goals: Secure a summer internship as well as work on an independent software development project.
+- ⚡ Fun fact: I love all things fantasy whether it be reading, gaming, bingeing or even writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
+
+---
+
+<img align="left" alt="KishendranVendarKon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KishendranVendarKon&show_icons=true&hide_border=true" />
+
+[linkedin]: www.linkedin.com/in/kishendran-vendar-kon-70a587220
+[gmail]: kishen.vendarkon@gmail.com
