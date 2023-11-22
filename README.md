@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science Undegraduate who is seriously interested in Software Engineering!
 
-- 🌱 I’m currently in year 4 and excited to join the workforce when i graduate in December 2023.
-- 🥅 2023 Goals: Secure a summer internship that will help me become a more accomplished and well-rounded developer.
+- 🌱 I’m currently in year 4 and excited to join the workforce when i graduate in January 2024.
+- 🥅 2024 Goals: Continue to enhance myself to become a more well-rounded developer.
 - ⚡ Fun fact: I love all things fantasy whether it be reading, gaming, bingeing or even writing.
 
 ### Connect with me:
